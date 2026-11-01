@@ -1,0 +1,5 @@
+README.md
+.gitignore
+.claspignore
+.clasp.json.example
+docs/**
